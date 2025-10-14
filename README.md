@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ChrislyTech __ Christian Elysée BAMOGO 
-- 👀 I’m interested New Technologies and Numeric works such as microcontroller programming, automated systems, axis control, robotic systems (robotic arms), DSP circuits,...
-- 🌱 I’m currently studing Control Engineering, with focus on data-driven fault diagnosis for cyber physical systems
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me christianbamogo7@gmail.com, insta: @chrisly__technologies, 
+![Profile Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=twinkling&fontAlignY=35&text=Christly%20Christian%20BAMOGO&descAlignY=55&desc=Researcher%20(HIT%20Lab)%20|%20Cyber-Physical%20Systems%20Safety%20|%20Intelligent%20Control%20&%20AI&fontSize=45&fontColor=fff&descSize=16)
 
 <!---
 ChrislyTech/ChrislyTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
