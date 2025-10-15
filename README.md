@@ -64,7 +64,7 @@
 
 * 💻 Control Systems Engineer and AI researcher specializing in **intelligent fault diagnosis** and **data-driven control** for **Cyber-Physical Systems**.  
 * 🌱 Currently pursuing a **Master of Engineering Degree** at the **DIDC Lab**, **School of Astronautics**, **Department of Control Science and Engineering**, **Harbin Institute of Technology**, China.  
-* 👯 Actively seeking collaborations on **open-source projects** related to **CPS Security**, **AI-driven Control**, and **Applied Deep Learning**.  
+* 👯 Open for great collaborations on **open-source projects** related to **CPS Security**, **AI-driven Control**, and **Applied Deep Learning**.  
 * 🎯 Experienced in building both **academic prototypes** and **production-grade mobile apps** (10K+ downloads).  
 
 ---
