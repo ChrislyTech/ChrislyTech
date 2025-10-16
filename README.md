@@ -7,12 +7,12 @@
 # 👩‍💻 Research & Academic Projects
 
 ### 🧠 Cyber-Physical Systems & Fault Diagnosis
-* 🔗 [False Data Injection Attacks (FDAIs) on DAE-PCA Fault Diagnosis Systems](https://github.com/ChrislyTech/FDAI-DAEPCA-FaultDiagnosis) – Study and simulation of **data-driven fault diagnosis under adversarial conditions**. Includes dataset corruption scenarios, detection thresholds, and recovery strategies. *(Ongoing, HIT Lab, 2025)*  
+* 🔗 [False Data Injection Attacks (FDAIs) on DAE-PCA Fault Diagnosis Systems](https://github.com/ChrislyTech/FDAI-DAEPCA-FaultDiagnosis) – Study and simulation of **data-driven fault diagnosis under adversarial conditions**. Includes dataset corruption scenarios, detection thresholds, and recovery strategies. *(Ongoing, HIT Lab, 2025)*  [Link overview presentation](https://drive.google.com/file/d/17hhd6gO-2AaoCyK4FnD_ap6oyNj-E24i/view?usp=drivesdk)
 * 🔗 [Intelligent Fault Detection in CPS](https://github.com/ChrislyTech/CPS-FaultDiagnosis) – Research on **data-driven fault detection** and **system reliability enhancement** in Cyber-Physical Systems using two state-of-the-art models: **Kernel PCA (KPCA)** and **Deep Autoencoder-based PCA (DAE-PCA)**. *(Ongoing, HIT Lab, 2025)*  
 
 
 ### 🧩 Computer Vision | Digital Signal Processing & Visual Security
-* 🔗 [YOLO + DCT Watermarking for Visual Security](https://github.com/ChrislyTech/Yolo-DSP-Watermarking) – Integration of **YOLO object detection** with **DCT-based watermarking** to ensure **image authenticity** and **resilience against tampering**.  
+* 🔗 [YOLO + DCT Watermarking for Visual Security](https://github.com/ChrislyTech/Yolo-DSP-Watermarking) – Integration of **YOLO object detection** with **DCT-based [watermarking](https://drive.google.com/file/d/1OEZ--UEvMEsmrIiRx_4BSIs3R6EEGeO0/view?usp=drivesdk)** to ensure **image authenticity** and **resilience against tampering**. [Link to read the Report](https:/drive.google.com/file/d/1wXE65ff72Pea1BY1QGjC8-Tjv2hJGXvC/view?usp=drivesdk)  
 * 🔗 [YOLOv8-based Vehicle Tracking and Counting](https://github.com/ChrislyTech/YOLOv8-VehicleTracking) – Real-time **vehicle tracking and density estimation** using YOLOv8 with optimized bounding box tracking.  
 * 🔗 [Image Enhancement and Histogram Analysis](https://github.com/ChrislyTech/ImageEnhancement-DSP) – Comparative study of **histogram equalization** and **histogram matching** for image quality improvement and preprocessing in vision pipelines.  
 * 🔗 [Image Watermark Detection and Robustness Validation](https://github.com/ChrislyTech/DCT-Watermark-Detection) – Development of **robust watermark detection algorithms** validated under noise, compression, and geometric transformations.
@@ -22,7 +22,7 @@
 * 🔗 [Aero Flight Control System Simulation](https://github.com/ChrislyTech/AeroFlightControlSim) – Design and MATLAB-based simulation of **longitudinal and lateral dynamics** for aircraft flight control analysis.  
 * 🔗 [PID & Adaptive Control Simulations](https://github.com/ChrislyTech/ControlSim-HIT) – Modeling, tuning, and performance evaluation of **PID** and **adaptive controllers** for dynamic system stabilization.    
 * 🔗 [ParkMeter (IoT-based Smart Parking System)](https://github.com/ChrislyTech/SmartParking-IoT) – Design and implementation of a single **smart parking_meter prototype** (parkmeter) for public parking management.  
-* 🔗 [Wireless Light Control (IoT-based)](https://github.com/ChrislyTech/Wireless-Light-Control) – Hardware design (electronics & PCB) and mobile interface for **real-time lighting control** via Bluetooth and Wi-Fi. *(Early Academic Project)*  
+* 🔗 [Wireless Light Control (IoT-based)](https://github.com/ChrislyTech/Wireless-Light-Control) – Hardware design [(electronics & PCB)](https://drive.google.com/file/d/1RtUguP8XBYq1lGPSy88pb2HbCqwVKLnT/view?usp=drivesdk) and mobile interface for **real-time lighting control** via Bluetooth and Wi-Fi. *[(Early Academic Project link)](https://drive.google.com/file/d/17vIQaCNi_2URb_7_PmtP1b1yVnx9hCQb/view?usp=drivesdk)*  
 
 
 ### 🤖 Medical Imaging & Natural Language Processing
@@ -31,7 +31,7 @@
 
 
 ### 📱 Mobile Apps (Flutter & Dart)
-* 🔗 [Home Workout Fitness App](https://play.google.com/store/apps/details?id=xyz.app.example) – **10K+ downloads**; comprehensive workout planner and progress tracker built with **Flutter** & **Firebase**.  
+* 🔗 [Home Workout Fitness App](https://play.google.com/store/apps/details?id=xyz.app.example) – Comprehensive workout planner and progress tracker built with **Flutter** & **Firebase**.  
 * 🔗 [Bible Study System for Virtual Church](https://github.com/ChrislyTech/BibleStudy-VirtualChurch) – Interactive **faith-based learning app** featuring quizzes and real-time session synchronization.  
 * 🔗 [Expense Tracker & Budget Planner](https://github.com/ChrislyTech/ExpenseTracker-Flutter) – **Offline-first finance manager** built with Flutter and SQLite for daily budgeting and expense monitoring.  
 * 🔗 [COVID Tracker App](https://github.com/ChrislyTech/CovidTracker-App) – Academic project featuring **real-time global COVID-19 statistics** and visualization via REST APIs. *(Early Academic Project)*  
