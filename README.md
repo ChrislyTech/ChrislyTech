@@ -12,7 +12,7 @@
 
 
 ### 🧩 Computer Vision | Digital Signal Processing & Visual Security
-* 🔗 [YOLO + DCT Watermarking for Visual Security](https://github.com/ChrislyTech/Yolo-DSP-Watermarking) – Integration of **YOLO object detection** with **DCT-based [watermarking](https://drive.google.com/file/d/1OEZ--UEvMEsmrIiRx_4BSIs3R6EEGeO0/view?usp=drivesdk)** to ensure **image authenticity** and **resilience against tampering**. [Link to read the Report](https:/drive.google.com/file/d/1wXE65ff72Pea1BY1QGjC8-Tjv2hJGXvC/view?usp=drivesdk)  
+* 🔗 [YOLO + DCT Watermarking for Visual Security](https://github.com/ChrislyTech/Yolo-DSP-Watermarking) – Integration of **YOLO object detection** with **DCT-based [watermarking](https://drive.google.com/file/d/1OEZ--UEvMEsmrIiRx_4BSIs3R6EEGeO0/view?usp=drivesdk)** to ensure **image authenticity** and **resilience against tampering**. [Link to read the Report](https://drive.google.com/file/d/1wXE65ff72Pea1BY1QGjC8-Tjv2hJGXvC/view?usp=drivesdk) 
 * 🔗 [YOLOv8-based Vehicle Tracking and Counting](https://github.com/ChrislyTech/YOLOv8-VehicleTracking) – Real-time **vehicle tracking and density estimation** using YOLOv8 with optimized bounding box tracking.  
 * 🔗 [Image Enhancement and Histogram Analysis](https://github.com/ChrislyTech/ImageEnhancement-DSP) – Comparative study of **histogram equalization** and **histogram matching** for image quality improvement and preprocessing in vision pipelines.  
 * 🔗 [Image Watermark Detection and Robustness Validation](https://github.com/ChrislyTech/DCT-Watermark-Detection) – Development of **robust watermark detection algorithms** validated under noise, compression, and geometric transformations.
@@ -21,7 +21,7 @@
 ### ⚙️ Control & Automation Systems
 * 🔗 [Aero Flight Control System Simulation](https://github.com/ChrislyTech/AeroFlightControlSim) – Design and MATLAB-based simulation of **longitudinal and lateral dynamics** for aircraft flight control analysis.  
 * 🔗 [PID & Adaptive Control Simulations](https://github.com/ChrislyTech/ControlSim-HIT) – Modeling, tuning, and performance evaluation of **PID** and **adaptive controllers** for dynamic system stabilization.    
-* 🔗 [ParkMeter (IoT-based Smart Parking System)](https://github.com/ChrislyTech/SmartParking-IoT) – Design and implementation of a single **smart parking_meter prototype** (parkmeter) for public parking management.  
+* 🔗 [ParkMeter (IoT-based Smart Parking System)](https://github.com/ChrislyTech/SmartParking-IoT) – Design and implementation of a single **smart parking_meter prototype** (parkmeter) for public parking management. [Presentation Link](https://www.facebook.com/share/v/19yFMbb3aN/) + [Images](https://www.facebook.com/share/p/1BSr5bv9hf/)   
 * 🔗 [Wireless Light Control (IoT-based)](https://github.com/ChrislyTech/Wireless-Light-Control) – Hardware design [(electronics & PCB)](https://drive.google.com/file/d/1RtUguP8XBYq1lGPSy88pb2HbCqwVKLnT/view?usp=drivesdk) and mobile interface for **real-time lighting control** via Bluetooth and Wi-Fi. *[(Early Academic Project link)](https://drive.google.com/file/d/17vIQaCNi_2URb_7_PmtP1b1yVnx9hCQb/view?usp=drivesdk)*  
 
 
@@ -31,8 +31,8 @@
 
 
 ### 📱 Mobile Apps (Flutter & Dart)
-* 🔗 [Home Workout Fitness App](https://play.google.com/store/apps/details?id=xyz.app.example) – Comprehensive workout planner and progress tracker built with **Flutter** & **Firebase**.  
-* 🔗 [Bible Study System for Virtual Church](https://github.com/ChrislyTech/BibleStudy-VirtualChurch) – Interactive **faith-based learning app** featuring quizzes and real-time session synchronization.  
+* 🔗 [Bible Study System for Virtual Church](https://github.com/ChrislyTech/BibleStudy-VirtualChurch) – Interactive **faith-based learning app** featuring quizzes and real-time session synchronization. [Ongoing See here](https://drive.google.com/file/d/1jP09BWrZcsYlf0fl-xC6AJtInWRq7fNl/view?usp=drivesdk) 
+* 🔗 [Home Workout Fitness App](https://play.google.com/store/apps/details?id=xyz.app.example) – Comprehensive workout planner and progress tracker built with **Flutter** & **Firebase**.   
 * 🔗 [Expense Tracker & Budget Planner](https://github.com/ChrislyTech/ExpenseTracker-Flutter) – **Offline-first finance manager** built with Flutter and SQLite for daily budgeting and expense monitoring.  
 * 🔗 [COVID Tracker App](https://github.com/ChrislyTech/CovidTracker-App) – Academic project featuring **real-time global COVID-19 statistics** and visualization via REST APIs. *(Early Academic Project)*  
 
