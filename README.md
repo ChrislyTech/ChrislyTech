@@ -85,6 +85,21 @@
 
 ---
 
+<!-- Stats & Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChrislyTech&color=0e76a8&style=flat-square" alt="visitor badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-brightgreen?style=for-the-badge&logo=github" alt="open to collaboration" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrislyTech&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
 # 🤳 Connect with Me
 
 <p align="center">
