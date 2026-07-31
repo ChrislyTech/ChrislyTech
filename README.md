@@ -7,7 +7,7 @@
 # 📚 About Me
 
 * 💻 Control Systems Engineer and AI researcher specializing in **intelligent fault diagnosis** and **security of Cyber-Physical Systems**, currently completing my Master's at Harbin Institute of Technology (HIT).
-* 🔬 My published research (**IEEE TII, Q1 SCIE, IF 9.8, 2026**) exposes and defends against attacks on industrial fault detectors — see below.
+* 🔬 Co-authored research under **Prof. Yuchen Jiang** (**IEEE TII, Q1 SCIE, IF 9.8, 2026**), where I led the implementation and initial technical drafting — exposing and defending against attacks on industrial fault detectors.
 * 🎯 Preparing PhD applications for **Fall 2027** — open to collaboration on CPS security, fault diagnosis, and applied AI.
 * 👯 Open for collaborations on **open-source projects** related to **CPS Security**, **AI-driven Control**, and **Applied Deep Learning**.
 * 🌍 From Burkina Faso, building and shipping projects across control systems, computer vision, and mobile development.
@@ -18,10 +18,10 @@
 
 ### 🧠 Cyber-Physical Systems & Fault Diagnosis
 
-* 🔗 **[FDIA Alarm Defense — False Data Injection Attacks on Industrial Fault Detectors](https://github.com/ChrislyTech/fdia-alarm-defense)** – Full implementation of my published research: a novel FDIA threat model against DAE-PCA fault detectors, featuring a chattering-alarm attack scheme and countermeasures via threshold adaptation. Validated on the Tennessee Eastman Process benchmark.
+* 🔗 **[FDIA Alarm Defense — False Data Injection Attacks on Industrial Fault Detectors](https://github.com/ChrislyTech/fdia-alarm-defense)** – Full implementation of our published research (co-authored with **Prof. Yuchen Jiang et al.**, in which I led the implementation and initial drafting): a novel FDIA threat model against DAE-PCA fault detectors, featuring a chattering-alarm attack scheme and countermeasures via threshold adaptation. Validated on the Tennessee Eastman Process benchmark.
   **📄 Published: IEEE Transactions on Industrial Informatics (IEEE TII) — Q1 SCIE, Impact Factor 9.8, IEEE Industrial Electronics Society, 2026**
 
-* 🔗 **Chapter 3 — Deep Reinforcement Learning for Residual Generation** *(in progress)* – Ongoing extension of my thesis toward DRL-based nonlinear residual generators for fault detection, building on the RL-inspired linear framework from my Chapter 2 work. Repo coming as the research matures.
+* 🔗 **Chapter 3 — Deep Reinforcement Learning for Residual Generation** *(in progress)* – Ongoing extension of my thesis toward DRL-based nonlinear residual generators for fault detection, building on the RL-inspired linear framework from our co-authored Chapter 2 work (Jiang et al., IEEE TII 2026). Repo coming as the research matures.
 
 ### ⚙️ Control & Automation Systems
 
