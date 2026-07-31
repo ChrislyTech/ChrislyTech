@@ -34,7 +34,7 @@
 ### 📱 Side Projects (Mobile & IoT)
 
 * 🔗 **[ParkMeter (IoT-based Smart Parking System)](https://www.facebook.com/share/v/19yFMbb3aN/)** – Design and implementation of a smart parking-meter prototype for public parking management. [Images](https://www.facebook.com/share/p/1BSr5bv9hf/)
-* 🔗 **[Wireless Light Control (IoT-based)](https://drive.google.com/file/d/1RtUguP8XBYq1lGPSy88pb2HbCqwVKLnT/view?usp=drivesdk)** – Hardware design (electronics & PCB) and mobile interface for real-time lighting control via Bluetooth and Wi-Fi.
+* 🔗 **[Wireless Light Control (IoT-based)](https://drive.google.com/file/d/17vIQaCNi_2URb_7_PmtP1b1yVnx9hCQb/view?usp=drive_link)** – Hardware design ([electronics & PCB](https://drive.google.com/file/d/1RtUguP8XBYq1lGPSy88pb2HbCqwVKLnT/view?usp=drivesdk)) and mobile interface for real-time lighting control via Bluetooth and Wi-Fi.
 * 🔗 **[Bible Study System for Virtual Church](https://drive.google.com/file/d/1jP09BWrZcsYlf0fl-xC6AJtInWRq7fNl/view?usp=drivesdk)** – Interactive faith-based learning app featuring quizzes and real-time session synchronization, built in Flutter.
 
 ---
@@ -73,12 +73,12 @@
 # 🏆 Awards & Recognition
 
 ### Academic Excellence
-* 🥇 **[Outstanding Participant Award](https://drive.google.com/file/d/1b7zgRQaui35GZDIRblypHAdqUd7vOCvj/view?usp=drive_link)** — International Summer School, School of Astronautics, HIT *(June 2026)* — "Exploring Tiangong, Pursuing Aerospace Dreams"
-* 🎓 **[High-End Equipment and Intelligent Manufacturing](https://drive.google.com/file/d/1-qC77naAU4X8gP6GteoQvOjOO_rwHQpd/view?usp=drive_link)** — International Summer Program, HIT *(July 2025)*
+* 🥇 **[Outstanding Participant Award](https://drive.google.com/file/d/1UVYtQgqnv1cVqREZZmNeI93UowrpcdnZ/view?usp=drive_link)** — International Summer School, School of Astronautics, HIT *(June 2026)* — "Exploring Tiangong, Pursuing Aerospace Dreams"
+* 🎓 **[High-End Equipment and Intelligent Manufacturing](https://drive.google.com/file/d/12jWPzYz6nO5KgHR6RsQ3reEYVtByS8U6/view?usp=drive_link)** — International Summer Program, HIT *(July 2025)*
 * 🎓 **Intelligent Electrification for Prospective Future** — International Summer Program, HIT *(July 2026, certificate pending)*
 
 ### Leadership & Campus Engagement
-Active in HIT's international student community — [booth leadership](https://drive.google.com/file/d/1UVYtQgqnv1cVqREZZmNeI93UowrpcdnZ/view?usp=drive_link) at the International Cultural Carnival, [volunteer](https://drive.google.com/file/d/1MluhHY51zHLjYWCTAyZPD9ZPusHLUr7p/view?usp=drive_link) roles at the Mental Health Cultural Festival and [Track & Field Games](https://drive.google.com/file/d/1Ney0PfIgZmhG8WGkJUtsE-rbn16eoztd/view?usp=drive_link), plus [participation](https://drive.google.com/file/d/1S5m10XjA9kPwiKSk0dQGFGHfu5xIcrdV/view?usp=drive_link) and [cultural performance recognition](https://drive.google.com/file/d/12jWPzYz6nO5KgHR6RsQ3reEYVtByS8U6/view?usp=drive_link) at the International Cultural Carnival (2025–2026).
+Active in HIT's international student community — [booth leadership](https://drive.google.com/file/d/1S5m10XjA9kPwiKSk0dQGFGHfu5xIcrdV/view?usp=drive_link) at the International Cultural Carnival, [volunteer](https://drive.google.com/file/d/1MluhHY51zHLjYWCTAyZPD9ZPusHLUr7p/view?usp=drive_link) roles at the Mental Health Cultural Festival and [Track & Field Games](https://drive.google.com/file/d/1b7zgRQaui35GZDIRblypHAdqUd7vOCvj/view?usp=drive_link), plus [participation](https://drive.google.com/file/d/1-qC77naAU4X8gP6GteoQvOjOO_rwHQpd/view?usp=drive_link) and [cultural performance recognition](https://drive.google.com/file/d/1Ney0PfIgZmhG8WGkJUtsE-rbn16eoztd/view?usp=drive_link) at the International Cultural Carnival of Harbin Institute of Technology (2025).
 
 ---
 
