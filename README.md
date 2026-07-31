@@ -23,13 +23,13 @@
 
 * 🔗 **Chapter 3 — Deep Reinforcement Learning for Residual Generation** *(in progress)* – Ongoing extension of my thesis toward DRL-based nonlinear residual generators for fault detection, building on the RL-inspired linear framework from our co-authored Chapter 2 work (Jiang et al., IEEE TII 2026). Repo coming as the research matures.
 
-### ⚙️ Control & Automation Systems
+### ⚡ Power Electronics & Lighting Systems
 
-* 🔗 **Control Systems Simulations — PID, Adaptive Control & Flight Dynamics** *(in progress)* – MATLAB-based simulation of longitudinal/lateral aircraft flight dynamics, plus PID and adaptive controller tuning for dynamic system stabilization.
+* 🔗 **[LED Driver Flicker vs Bulk Capacitance](https://github.com/ChrislyTech/led-driver-flicker-capacitance)** – Reproducible analysis showing that IEEE 1789-2015 flicker limits, not electrical constraints, set the lower bound on the bulk capacitor of off-line LED drivers. Applying the design equations to a standard 70 W example, meeting the low-risk boundary requires 1.8× the capacitance and the no-observable-effect level 4.2×. Every number quoted is printed by the script, so the whole analysis is verifiable in one command. *Course report, Introduction to LED Lighting (Prof. J. M. Alonso Alvarez, Universidad de Oviedo).*
 
 ### 🧩 Computer Vision | Digital Signal Processing & Visual Security
 
-* 🔗 **YOLO + DCT Watermarking for Visual Security** *(in progress)* – Integration of **YOLO object detection** with **DCT-based [watermarking](https://drive.google.com/file/d/1OEZ--UEvMEsmrIiRx_4BSIs3R6EEGeO0/view?usp=drivesdk)** to ensure image authenticity and resilience against tampering. [Read the Report](https://drive.google.com/file/d/1wXE65ff72Pea1BY1QGjC8-Tjv2hJGXvC/view?usp=drivesdk)
+* 🔗 **YOLO + DCT Watermarking for Visual Security** – Integration of **YOLO object detection** with **DCT-based [watermarking](https://drive.google.com/file/d/1OEZ--UEvMEsmrIiRx_4BSIs3R6EEGeO0/view?usp=drivesdk)** to ensure image authenticity and resilience against tampering. [Read the Report](https://drive.google.com/file/d/1wXE65ff72Pea1BY1QGjC8-Tjv2hJGXvC/view?usp=drivesdk)
 
 ### 📱 Side Projects (Mobile & IoT)
 
@@ -58,7 +58,6 @@
     * **📍 [Harbin Institute of Technology (HIT) | 🌐 official website](https://en.hit.edu.cn/main.htm)**, China.
     * *School of Astronautics*, Department of Control Science and Engineering.
     * *Specialization:* Intelligent Fault Diagnosis and Secure Control Systems (**DIDC Lab**).
-    * **🔥 RANKING HIGHLIGHT:** HIT is ranked [**#1 in the World** for **''Automation and Control Engineering''**](https://edurank.org/engineering/automation/) academic field, according to [EduRank 2025](https://edurank.org/engineering/automation/). (Ranked ahead of MIT, Stanford, etc.)
 
 ### Undergraduate Studies
 * **Bachelor of Electrical Engineering – Automation and Industrial Computing**
@@ -113,24 +112,12 @@ Active in HIT's international student community — [booth leadership](https://d
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   &nbsp;
-  <a href="https://wa.me/22657081350">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/christianbamogo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/christianelysebamogo">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/ChrislyTech/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 </p>
 
